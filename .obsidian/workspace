@@ -1,0 +1,97 @@
+{
+  "main": {
+    "id": "8f7052f86d19f88a",
+    "type": "split",
+    "children": [
+      {
+        "id": "685b1ee6552e7dc6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Theologische Artefakte. Problemstellung.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "755ef813cd689cc9",
+    "type": "split",
+    "children": [
+      {
+        "id": "335c1feeaf1fda6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee119a21ec94d3fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0850df8bf1a5eb12",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 261
+  },
+  "right": {
+    "id": "58e784031d3ec24c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5abe07afd9e1b4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cdd3330a82b84aae",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Theologische Artefakte. Problemstellung.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "685b1ee6552e7dc6",
+  "lastOpenFiles": [
+    "Theologische Artefakte. Problemstellung.md",
+    "ChapterTemplate.md.md",
+    "Modell des Modellierens.md",
+    "Outline.md"
+  ]
+}
